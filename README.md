@@ -1,0 +1,2 @@
+# Example Project for ImageSharp DrawText with custom font
+Trying to create two images each with its own width, height and font-size. Until the text bounds fit the image we are reducing the font-size. Once the bounds are good, we proceed to draw. There is also a centering logic.
